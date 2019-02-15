@@ -3,7 +3,7 @@
 # wangsu@idcos.com
 
 export LC_ALL=C
-export PATH=/bin:/sbin:/usr/bin:/usr/sbin
+export PATH=/bin:/sbin:/usr/bin:/usr/sbin:/usr/local/bin:/usr/local/sbin
 
 usage() {
     cat <<EOF
